@@ -68,7 +68,7 @@ visualisation.
 
 **Key Insights and Outcomes**
 
-### Political Manifesto Analysis
+*Political Manifesto Analysis*
 
 The 10 most frequent words in the EFF manifesto included *EFF* (45 occurrences),
 *government* (32), and *economic* (24). In the DA manifesto, the most frequent 
@@ -92,7 +92,7 @@ algorithm was not required.
 
 
 
-### Student Review Sentiment Analysis
+*Student Review Sentiment Analysis*
 
 The Bing sentiment lexicon was selected to classify words as positive or 
 negative. Frequently occurring positive terms included *helped*, *rewarding*, 
